@@ -1,2 +1,2 @@
-### Some Useful Bash Scripts
-### Notes are inside the scripts
+Some Useful Bash Scripts
+Notes are inside the scripts
