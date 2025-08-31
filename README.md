@@ -1,1 +1,2 @@
-# Bash Scripts
+### Some Useful Bash Scripts
+### Notes are inside the scripts
